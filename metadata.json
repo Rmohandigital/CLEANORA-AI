@@ -1,0 +1,10 @@
+{
+  "name": "CleanMark AI",
+  "description": "AI-powered watermark, logo, text, and object removal for images and videos with chunked large-file upload support up to 2 GB.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
